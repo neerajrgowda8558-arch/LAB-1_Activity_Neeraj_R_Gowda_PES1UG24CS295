@@ -39,3 +39,12 @@ Shows the six identified bugs in the Jira Bug Tracker.
 ### Screenshot 2 – Bug Retest and Completion
 
 Shows a bug moved to the Done column after the issue was fixed and retested.
+## Evidence
+
+### Screenshot 1 – Jira Bug Tracker
+
+![Jira Bug Tracker Initial](Jira_Bug_Tracker_Initial.jpeg)
+
+### Screenshot 2 – Bug Fixed and Retested
+
+![Jira Bug Fixed Retest](Jira_Bug_Fixed_Retest.jpeg)
